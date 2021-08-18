@@ -13,7 +13,7 @@
  <p>
 I am a Junior Web and Mobile App Developer able to build a full stack application from scratch. I am a fast learner and a team player.
 
-I have good design & coding skills, as well as an ability to convert requirements into exciting online applications.
+I HOPE have good design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
 
