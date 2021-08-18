@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=panhabot&show_icons=true&theme=radical&count_private=true" />
+
+<br />
+<br />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panhabot&layout=compact&theme=radical" />
 
