@@ -80,12 +80,11 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
-    
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>  
     &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/MongoDB%20-%2313aa52.svg?logo=mongodb&logoColor=white"></a>  
+    <a href="https://www.heroku.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2313aa52.svg?logo=mongodb&logoColor=white"></a>  
     &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/AWS%20-%23232f3e.svg?logo=AWS&logoColor=white"></a>  
+    <a href="https://www.heroku.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23232f3e.svg?logo=AWS&logoColor=white"></a>  
  &emsp; 
 </p>
   
