@@ -101,11 +101,7 @@
     &emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flate&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-  </a>
+	</a>
     &emsp;
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
