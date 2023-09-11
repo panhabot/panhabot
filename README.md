@@ -5,7 +5,7 @@
 <a href="https://app.daily.dev/neonrookie"><img src="https://api.daily.dev/devcards/175ddd0dc25349ceaa8fdb4ca4d8753f.png?r=1ed" width="200" alt="Kong Panhabot's Dev Card"/></a>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+and+Mobile+Developer;Project+Manager;UI/UX+Designer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+and+Mobile+Developer;Project+Manager;UI/UX+Designer&center=true&width=600&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I'm a software engineer undergraduate. I am tech enthusiast. I enjoy learning things and making new friends.</h4>
