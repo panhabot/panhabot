@@ -2,8 +2,6 @@
     
 <h1 align="center">Hi , I'm Kong Panhabot. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="https://app.daily.dev/neonrookie"><img src="https://api.daily.dev/devcards/175ddd0dc25349ceaa8fdb4ca4d8753f.png?r=1ed" width="200" alt="Kong Panhabot's Dev Card"/></a>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+and+Mobile+Developer;Project+Manager;UI/UX+Designer&center=true&width=600&height=50"></a>
 </p>
